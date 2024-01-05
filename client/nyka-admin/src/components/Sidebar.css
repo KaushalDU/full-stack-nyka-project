@@ -1,0 +1,25 @@
+.sidebar{
+    width: 230px;
+    height: 1184px;
+    flex-shrink: 0;
+    background: #FFF;
+    color:red;
+    padding: 20px;
+
+}
+h1{
+    color: #013CC6;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+    width: 203px;
+    height:36px;
+    top:63px;
+    left: 18px;
+
+}
+.subcontent > div>a{
+    text-decoration: none;
+}
